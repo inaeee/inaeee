@@ -1,9 +1,11 @@
 ## 🌟 About me
-만나뵙게 되어서 반갑습니다. <br>
-현재 B2B Fintech 기업에 재직 중인 웹 개발자입니다. <br>
-배움을 즐기고 협업과 소통을 중요시합니다. <br>
-새로운 기술, 업무는 언제나 환영입니다. welcome, 🙆‍♀️ <br>
+<br>
+만나뵙게 되어서 반갑습니다. <br><br>
+현재 B2B Fintech 기업에 재직 중인 웹 개발자입니다. <br><br>
+배움을 즐기고 협업과 소통을 중요시합니다. <br><br>
+새로운 기술, 업무는 언제나 환영입니다. welcome, 🙆‍♀️ <br><br>
 *(정보처리기사 / SQL Developer / ADsP)*
+
 
 
 ## 💻 My Tech Stack
@@ -16,6 +18,7 @@ I've used it as the main. <br>
  ![rogo](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white) ![rogo](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 <br><br>I'm studying it. <br>
 ![rogo](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
+
 
 ## 📧 Contect me
 only e-mail :  _iahwang12@gmail.com_
