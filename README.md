@@ -16,7 +16,7 @@ I've used it as the main. <br>
  ![rogo](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white) ![rogo](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) ![rogo](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white) ![rogo](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)
  ![rogo](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white) ![rogo](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 <br><br>I'm studying it. <br>
-![rogo](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
+![rogo](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white) ![rogo](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white)
 
 
 ## 📧 Contect me
